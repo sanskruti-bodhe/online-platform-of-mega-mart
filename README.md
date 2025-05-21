@@ -1,6 +1,6 @@
 # Online Shopping Cart (E-Commerce Website)
 
-This is an E-Commerce Website build for selling of any electronics products online.
+This is an E-Commerce Website build for selling of any products online.
 
 ### About
 
